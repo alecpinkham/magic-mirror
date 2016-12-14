@@ -5,4 +5,4 @@ My variant of a variant.
 Others have done a much better job at explaining the process, but you'll need a few things set up first.
 - PHP
 - [MAMP](https://www.mamp.info/en/)/[XAMPP Server](https://www.apachefriends.org/index.html)
-- [Sublime Text]/(https://www.sublimetext.com/) or [Atom]/(https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/)
